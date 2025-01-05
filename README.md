@@ -18,7 +18,7 @@ Aplicativo desenvolvido em React Native juntamente com Expo simulando um gerador
 
 O código fonte se encontra no repositório do Github:
 
-https://github.com/jeancrrg/Blog-Marvel-Angular.git
+https://github.com/jeancrrg/bat-senha-app.git
 
 ## 💻 Tecnologias utilizadas
 
